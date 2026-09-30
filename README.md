@@ -1,3 +1,5 @@
+# NOTE: This is an anonymous github account. Not containing any personal information about the authors of the submitted manuscript and can in no way be traced in such a way that breaks double blind reviews.
+
 # Reproducibility Code for "The Forecast-Reconstruction Tradeoff Is an Artifact of Coupling a Single Latent to Both Objectives"
 
 ## Structure
